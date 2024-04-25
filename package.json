@@ -6,7 +6,7 @@
   "contributors": [
     "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)"
   ],
-  "license": "CC-BY-3.0",
+  "license": "CC-BY-SA-3.0",
   "repository": "kemitchell/spdx-exceptions.json",
   "files": [
     "index.json",
